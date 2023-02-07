@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+economy-simulator.net	TRUE	/	FALSE	1999999999	.AspNetCore.Antiforgery.bFkAkMmXS4Q	CfDJ8KI4wG7Y_lxMlWQNw9RZp1xJ8FJv7DzHOlf0NPa1V-nNpv79R9ihES9my9BQzIqUl15d7ltAMg8bgwqARHOwDtan6IcbjrgiB43-jTpBDpvBjHUZ2t1OC7Nh8JfDI4Yd8VI2N_B7y4PtoXpIbbVKwnQ
+economy-simulator.net	TRUE	/	FALSE	1999999999	es-verification-phrase	eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwaHJhc2UiOiJlY29zaW0gZmlyZXN0b3JtIGNvcHBlciBuaW5lIGFtb25nIHdpbnRlciBmYWxsIiwiY3JlYXRlZEF0IjoiMjAyMy0wMi0wN1QxOTozMzo0NS41MTAwMzQzWiJ9.erjA_No29CuIdmKorKPPIQc0Bzu57Uh7To34FP0KfONRtEYDjMAZ8z8FDZvnLuduz94Jr_8vOHqCUkr3lPqfRQ
+economy-simulator.net	TRUE	/	FALSE	1999999999	samesite	lax
+
